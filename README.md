@@ -17,7 +17,7 @@ I'm grazzol, an engineering student passionate about technology and software dev
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=grazzol&show_icons=true&theme=radical)
 
 ### 📊 GitHub Activity Graph
-[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?grazzol&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?grazzol&theme=github)
 
 
 ### 👀 Profile Views
