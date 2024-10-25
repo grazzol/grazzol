@@ -16,9 +16,15 @@ I'm grazzol, an engineering student passionate about technology and software dev
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=grazzol&show_icons=true&theme=radical)
 
+### 📊 GitHub Activity Graph
+![Your Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=grazzol&theme=github)
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=grazzol&color=blue)
+
 ### 📌 Featured Projects
 Here are some projects I’m proud of:
-- **[Pokedex]((https://github.com/grazzol/Pokedex))** - A React Pokedex !
+- **[Pokedex](https://github.com/grazzol/Pokedex)** - A React Pokedex !
 - **[Powershell-Scripts](https://github.com/grazzol/Powershell-Scripts)** - Some PowerShell scripts
 
 ### 💬 Let's Connect!
