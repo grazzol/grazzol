@@ -14,7 +14,8 @@ I'm grazzol, an engineering student passionate about technology and software dev
 - Java Development
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=grazzol&show_icons=true&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?grazzol=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 📊 GitHub Activity Graph
 ![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?grazzol&theme=github)
