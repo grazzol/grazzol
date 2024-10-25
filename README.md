@@ -4,7 +4,7 @@ I'm grazzol, an engineering student passionate about technology and software dev
 
 ### 🔧 Technologies & Tools
 - **Languages**: ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Frontend**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 - **Scripting**: ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 - **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black), ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
